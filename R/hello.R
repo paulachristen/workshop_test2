@@ -25,4 +25,3 @@ linter_ex <- function(x) {
     message("Whoa!")
   }
 }
-
