@@ -22,7 +22,7 @@ hello <- function() {
 #' linter_ex("lint")
 linter_ex <- function(x) {
   if (x == "lint") {
-        message("Whoa!")
+    message("Whoa!")
   }
 }
 
